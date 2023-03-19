@@ -1,0 +1,23 @@
+-Käytän Javaa, mutta osaan myös Pythonia ja C#, C++ ja C   
+-Käytän Djikstran algoritmia, Bellman-Fordin algoritmia
+-Ratkaisen mahdollisimman lyhyttä reittiä ja valitsin algoritmit, koska ne on ennestään hieman
+tuttuja
+
+          
+-Aikavaativuus Dijkstran algoritmille on O(V²)
+-Aikavaativuus Bellman-Fordin algoritmille on O(|V|*|E|), jossa V ja E ovat kärkiä ja reunoja 
+vastaavat
+ 
+-kuulun tietojenkäsittelytieteen kandidaatin opinto-ohjelmaan.
+
+-Projektin dokumentaatiossa käytän suomen kieltä, mutta muuten englanniksi. 
+
+
+
+lähteet:
+-Bellman-Ford (27.2.2023).[Wikipedia](https://en.wikipedia.org/wiki/Bellman–Ford_algorithm),
+luettu 19.3.2023.
+-Dijkstra (3.3.2023). [Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm),
+luettu 19.3.2023.
+
+
